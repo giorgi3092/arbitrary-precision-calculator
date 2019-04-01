@@ -1,11 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-/*  COMPE 361, Fall, 2018
- *  San Diego State University
- *  Author: Giorgi Aptsiauri
- *  RED ID: 820968337
- * */
+/*   Author: Giorgi Aptsiauri    */
 
 namespace inf_calculator_namespace
 {
